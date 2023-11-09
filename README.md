@@ -1,7 +1,8 @@
-![Cozy Banner](https://github.com/itsmemarly/itsmemarly/assets/31918408/4030c652-99ad-4818-b854-16bc4ce31ddb)
+![github](https://github.com/itsmemarly/itsmemarly/assets/31918408/f4b3cc38-c98e-4ecb-99fb-12f87c7fbba4)
 
-## 🍂 About Me:
-Greetings! I'm Marleen, a passionate web developer known for crafting inviting digital experiences. Just like the colorful fall leaves, I bring creativity and innovation to every project.
+
+## 🤍 About Me:
+Hey there! I'm Marleen, a passionate web developer who loves building user-friendly digital experiences. I'm on a mission to make the internet more accessible and engaging for everyone, regardless of their background or abilities.
 
 ## 💼 Skills:
 - Languages: HTML, CSS, JavaScript, React, PHP, Python
