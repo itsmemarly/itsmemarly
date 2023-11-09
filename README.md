@@ -17,9 +17,6 @@ I've had the privilege of working with education-focused companies, which ignite
 
 As a bonus, I'm on a fascinating journey of learning Chinese! 🌏
 
-## 🎯 Goals:
-My journey is an exciting path of continuous growth. I'm here to collaborate, innovate, and create remarkable web solutions. Let's explore new projects together!
-
 ## 🌟 Projects:
 Here are a few examples of my work:
 
